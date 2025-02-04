@@ -1,0 +1,28 @@
+body {
+  background-color: #000; /* Black background */
+}
+
+.testimonial-card {
+  padding: 20px;
+}
+
+.testimonial-image {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: #000; /* Black color for the navigation arrows */
+}
+
+@media (max-width: 768px) {
+  .testimonial-card {
+    padding: 15px;
+  }
+
+  .testimonial-image {
+    width: 100px;
+    height: 100px;
+  }
+}

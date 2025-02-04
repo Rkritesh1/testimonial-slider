@@ -1,0 +1,32 @@
+[
+  {
+    "image": "client1.jpg",
+    "name": "Client 1",
+    "feedback": "This service is amazing! Highly recommend.",
+    "rating": 5
+  },
+  {
+    "image": "client2.jpg",
+    "name": "Client 2",
+    "feedback": "Very reliable and professional.",
+    "rating": 4
+  },
+  {
+    "image": "client3.jpg",
+    "name": "Client 3",
+    "feedback": "The experience was fantastic! Will be back for more.",
+    "rating": 5
+  },
+  {
+    "image": "client4.jpg",
+    "name": "Client 4",
+    "feedback": "Affordable pricing and great quality.",
+    "rating": 4
+  },
+  {
+    "image": "client5.jpg",
+    "name": "Client 5",
+    "feedback": "Quick delivery and excellent customer support.",
+    "rating": 5
+  }
+]
